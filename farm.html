@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Paper Farm Dashboard</title>
+  <style>
+    :root { color-scheme: light; }
+    body { margin: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; color: #171717; background: #fafafa; }
+    main { max-width: 980px; margin: 0 auto; padding: 40px 24px 72px; }
+    h1 { font-size: 2rem; line-height: 1.1; margin: 0 0 12px; letter-spacing: 0; }
+    h2 { font-size: 1.15rem; margin-top: 32px; }
+    p { line-height: 1.55; max-width: 78ch; }
+    a { color: #064f8f; }
+    ul { padding-left: 20px; }
+    li { margin: 10px 0; }
+    li span { display: block; color: #666; font-size: 0.92rem; }
+    table { width: 100%; border-collapse: collapse; margin-top: 12px; background: #fff; }
+    th, td { border-bottom: 1px solid #ddd; padding: 10px 8px; text-align: left; vertical-align: top; }
+    th { font-size: 0.85rem; color: #555; }
+    .nav { margin-bottom: 28px; }
+    .panel { border: 1px solid #d8d8d8; border-radius: 6px; padding: 16px; background: #fff; }
+    code { background: #f0f0f0; padding: 2px 4px; border-radius: 4px; }
+  </style>
+</head>
+<body>
+<main>
+<div class="nav"><a href="index.html">Output folder</a></div>
+<h1>Paper Farm Dashboard</h1>
+<p>Live status generated at <code>2026-05-14T10:11:36Z</code>.</p>
+<div class="panel">
+  <p><strong>Published papers:</strong> 1 · <strong>Planned jobs:</strong> 16 · <strong>Live workers:</strong> 0</p>
+  <p><strong>Finished:</strong> 1 · <strong>Leased/running:</strong> 10 · <strong>Queued:</strong> 5 · <strong>Failed:</strong> 0</p>
+</div>
+<h2>Warnings</h2><ul><li>Farm state has leased/running jobs, but no live paper worker process was detected. Treat these as reserved slots until a worker writes progress or output.</li><li>The farm state is ahead of the registered/published outputs; finished or running jobs do not become papers until they are registered, compiled, and published.</li></ul>
+<h2>Stages</h2>
+<table>
+  <thead><tr><th>Paper</th><th>Subject</th><th>Stage</th><th>Status</th><th>Notes</th></tr></thead>
+  <tbody><tr><td>The Shovel-Ready Trap</td><td>regional science</td><td><code>published</code></td><td>registered</td><td>Registered, compiled, and mirrored into the output folder.</td></tr><tr><td>The Project-Capacity Selection Problem in Place-Based Funding</td><td>regional_science</td><td><code>awaiting_registration</code></td><td>finished</td><td>Lease is marked finished, but no registered compiled output exists for this paper id. Lease age: 37 minutes.</td></tr><tr><td>Procurement Delay as a Regional Development Bottleneck</td><td>regional_science</td><td><code>leased_no_worker</code></td><td>running</td><td>Slot is reserved in farm state, but no live worker process was detected. Lease age: 37 minutes.</td></tr><tr><td>Boundary Choice and the Measured Geography of Climate Adaptation Need</td><td>geography</td><td><code>leased_no_worker</code></td><td>running</td><td>Slot is reserved in farm state, but no live worker process was detected. Lease age: 37 minutes.</td></tr><tr><td>Remote-Sensing Drift in Local Environmental Risk Rankings</td><td>geography</td><td><code>leased_no_worker</code></td><td>running</td><td>Slot is reserved in farm state, but no live worker process was detected. Lease age: 37 minutes.</td></tr><tr><td>Policy Timing, Firm Entry, and the Measurement of Local Multiplier Effects</td><td>economics</td><td><code>leased_no_worker</code></td><td>running</td><td>Slot is reserved in farm state, but no live worker process was detected. Lease age: 37 minutes.</td></tr><tr><td>Partial Identification of Place-Based Investment Spillovers</td><td>economics</td><td><code>leased_no_worker</code></td><td>running</td><td>Slot is reserved in farm state, but no live worker process was detected. Lease age: 37 minutes.</td></tr><tr><td>Vacancy Frictions and the Local Capacity to Convert Training Subsidies</td><td>labour_economics</td><td><code>leased_no_worker</code></td><td>running</td><td>Slot is reserved in farm state, but no live worker process was detected. Lease age: 37 minutes.</td></tr><tr><td>Skill Taxonomy Drift in Regional Labour-Market Adjustment</td><td>labour_economics</td><td><code>leased_no_worker</code></td><td>running</td><td>Slot is reserved in farm state, but no live worker process was detected. Lease age: 37 minutes.</td></tr><tr><td>Grant Review Latency and the Geography of Scientific Translation</td><td>science</td><td><code>leased_no_worker</code></td><td>running</td><td>Slot is reserved in farm state, but no live worker process was detected. Lease age: 37 minutes.</td></tr><tr><td>Replication Packages as Infrastructure for Cumulative Science</td><td>science</td><td><code>leased_no_worker</code></td><td>running</td><td>Slot is reserved in farm state, but no live worker process was detected. Lease age: 37 minutes.</td></tr><tr><td>Regulatory Delay as an Unequal Access Mechanism</td><td>law_policy</td><td><code>leased_no_worker</code></td><td>running</td><td>Slot is reserved in farm state, but no live worker process was detected. Lease age: 36 minutes.</td></tr><tr><td>Doctrinal Fragmentation in Automated Administrative Decisions</td><td>law_policy</td><td><code>queued</code></td><td>queued</td><td>Idea is planned but has not been leased to a worker slot.</td></tr><tr><td>Care-Pathway Capacity and the Uneven Effect of Waiting-List Policy</td><td>health_policy</td><td><code>queued</code></td><td>queued</td><td>Idea is planned but has not been leased to a worker slot.</td></tr><tr><td>Target-Trial Emulation for Local Health-Service Reconfiguration</td><td>health_policy</td><td><code>queued</code></td><td>queued</td><td>Idea is planned but has not been leased to a worker slot.</td></tr><tr><td>Attendance Shocks and the Local Capacity to Convert Tutoring Policy</td><td>education_policy</td><td><code>queued</code></td><td>queued</td><td>Idea is planned but has not been leased to a worker slot.</td></tr><tr><td>Cohort Attrition in School-Level Policy Evaluation</td><td>education_policy</td><td><code>queued</code></td><td>queued</td><td>Idea is planned but has not been leased to a worker slot.</td></tr></tbody>
+</table>
+</main>
+</body>
+</html>
