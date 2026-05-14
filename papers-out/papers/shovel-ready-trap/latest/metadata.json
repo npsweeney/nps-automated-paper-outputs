@@ -1,0 +1,17 @@
+{
+  "id": "shovel-ready-trap",
+  "title": "The Shovel-Ready Trap",
+  "subject": "regional science",
+  "subtitle": "Project Pipelines and the Uneven Capacity to Do Regional Development",
+  "authors": [],
+  "built_at": "2026-05-14T09-06-53Z",
+  "public_stem": "the-shovel-ready-trap",
+  "paper_pdf": "the-shovel-ready-trap.pdf",
+  "paper_tex": "the-shovel-ready-trap.tex",
+  "abstract": "Regional science has made major progress in explaining left-behind places, development traps, resilience, institutions, and the uneven outcomes of place-based policy. This paper adds a missing middle: the project pipeline through which places convert policy opportunity into bids, awards, procurements, contracts, and delivered interventions. I argue that competitive and projectified regional policy can create a shovel-ready trap. Places with stronger administrative capacity, fiscal slack, consultant access, planning bandwidth, and pre-existing project shelves are better able to turn funding windows into executable projects; places with high need may be filtered out before impact evaluation begins. I demonstrate the empirical object with a reproducible seed dataset for the UK Levelling Up Fund Round 2. The official assessment note records 529 bids seeking 8.8 billion and 111 successful awards worth about 2.09 billion; the committed parser recovers 111 award records from the official successful-bidders spreadsheet, implying a 21.0 percent bid-to-award conversion rate by count. The contribution is therefore conceptual, empirical, and infrastructural: it defines the project-conversion mechanism, shows that the first conversion stage is observable, and supplies a pipeline for extending the data to procurement, contracts, and delivery.",
+  "overleaf": {
+    "configured": false
+  },
+  "bibliography": "the-shovel-ready-trap-references.bib",
+  "paper_sha256": "cb0f89cb5e253dbce7028d92ec7a54577f1e9a04568281e11cfce9d19ca7a9bf"
+}

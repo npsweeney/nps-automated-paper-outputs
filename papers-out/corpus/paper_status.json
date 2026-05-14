@@ -1,0 +1,18 @@
+{
+  "papers": [
+    {
+      "id": "scriptorship",
+      "title": "Death of the Author, Birth of the Scriptor",
+      "metadata": "papers/scriptorship/latest/metadata.json",
+      "pdf": "papers/scriptorship/latest/death-of-the-author-birth-of-the-scriptor.pdf",
+      "public_stem": "death-of-the-author-birth-of-the-scriptor"
+    },
+    {
+      "id": "shovel-ready-trap",
+      "title": "The Shovel-Ready Trap",
+      "metadata": "papers/shovel-ready-trap/latest/metadata.json",
+      "pdf": "papers/shovel-ready-trap/latest/the-shovel-ready-trap.pdf",
+      "public_stem": "the-shovel-ready-trap"
+    }
+  ]
+}

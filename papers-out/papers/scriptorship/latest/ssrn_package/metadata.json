@@ -1,0 +1,29 @@
+{
+  "id": "scriptorship",
+  "title": "Death of the Author, Birth of the Scriptor",
+  "subject": "scholarly communication",
+  "subtitle": "AI in Academia, Incentives, and Post-Paper Research Outputs",
+  "authors": [],
+  "built_at": "2026-05-14T09-06-53Z",
+  "public_stem": "death-of-the-author-birth-of-the-scriptor",
+  "paper_pdf": "death-of-the-author-birth-of-the-scriptor.pdf",
+  "paper_tex": "death-of-the-author-birth-of-the-scriptor.tex",
+  "abstract": "Cesar Hidalgo warns that an AI tsunami is approaching science. The warning matters because AI lowers the execution costs of traditional research tasks: search, coding, modelling, drafting, review, visualisation, and revision. In weak-link terms, AI moves the constraint on research productivity towards specifying, auditing, validating, and warranting the workflow through which claims are produced. This challenges the academic paper as the authoritative way of knowing research. The paper should become the narrative layer of a wider evidence system: a modular constellation of claims, sources, code chains, prompts, checks, exclusions, revisions, uncertainty, and public outputs. Quantity-output governance, patched with ad hoc data, code, and AI-use statements, is poorly suited to rigorous research under generative conditions. Where a prompter uses AI to produce papers, a scriptor recognises that the workflow is the output. `scriptorship-ledger` shows this shift through a claim ledger, transparency log, source-bias report, warrant graph, validation scripts, and workflow profile, paired with a limited v1 Codex/LaTeX pipeline that researches, validates, tracks accepted edits, and makes the writing workflow inspectable.",
+  "overleaf": {
+    "configured": true,
+    "exists": true,
+    "path": "/Users/user/dev/scriptor-master/overleaf-scriptorship",
+    "branch": "master",
+    "dirty": true,
+    "status_short": [
+      "M main.tex",
+      "?? .DS_Store"
+    ],
+    "remote": [
+      "origin\thttps://git@git.overleaf.com/6a02920db2210d4be0c8047e (fetch)",
+      "origin\thttps://git@git.overleaf.com/6a02920db2210d4be0c8047e (push)"
+    ]
+  },
+  "bibliography": "death-of-the-author-birth-of-the-scriptor-references.bib",
+  "paper_sha256": "dd298c2688eb8189686200fbf1d33a0677e167d5f500f68b0847c6643e7d4e7c"
+}

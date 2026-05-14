@@ -1,0 +1,165 @@
+{
+  "date": "2026-05-14T09:06:53.308266+00:00",
+  "runs": [
+    {
+      "elapsed_seconds": 0,
+      "script": "validate_claims.py",
+      "status": "passed",
+      "timestamp": "2026-05-14T09:06:50.728785+00:00"
+    },
+    {
+      "elapsed_seconds": 0,
+      "script": "check_latex_citations.py",
+      "status": "passed",
+      "timestamp": "2026-05-14T09:06:50.852551+00:00"
+    },
+    {
+      "elapsed_seconds": 0,
+      "script": "check_methods_quality.py",
+      "status": "passed",
+      "timestamp": "2026-05-14T09:06:50.978093+00:00"
+    },
+    {
+      "elapsed_seconds": 1,
+      "script": "check_data_artifacts.py",
+      "status": "passed",
+      "timestamp": "2026-05-14T09:06:51.122537+00:00"
+    },
+    {
+      "elapsed_seconds": 0,
+      "script": "build_warrant_graph.py",
+      "status": "passed",
+      "timestamp": "2026-05-14T09:06:51.260917+00:00"
+    },
+    {
+      "elapsed_seconds": 0,
+      "script": "source_bias_report.py",
+      "status": "passed",
+      "timestamp": "2026-05-14T09:06:51.398725+00:00"
+    },
+    {
+      "elapsed_seconds": 0,
+      "script": "build_transparency_log.py",
+      "status": "passed",
+      "timestamp": "2026-05-14T09:06:51.556928+00:00"
+    },
+    {
+      "elapsed_seconds": 0,
+      "script": "check_overclaiming.py",
+      "status": "passed",
+      "timestamp": "2026-05-14T09:06:51.696255+00:00"
+    },
+    {
+      "elapsed_seconds": 0,
+      "script": "build_interrogation_index.py",
+      "status": "passed",
+      "timestamp": "2026-05-14T09:06:51.856703+00:00"
+    },
+    {
+      "elapsed_seconds": 0,
+      "script": "build_claim_dossiers.py",
+      "status": "passed",
+      "timestamp": "2026-05-14T09:06:52.004748+00:00"
+    },
+    {
+      "elapsed_seconds": 0,
+      "script": "build_source_dossiers.py",
+      "status": "passed",
+      "timestamp": "2026-05-14T09:06:52.148682+00:00"
+    },
+    {
+      "elapsed_seconds": 0,
+      "script": "build_reviewer_question_bank.py",
+      "status": "passed",
+      "timestamp": "2026-05-14T09:06:52.285317+00:00"
+    },
+    {
+      "elapsed_seconds": 0,
+      "script": "check_interrogation_costs.py",
+      "status": "passed",
+      "timestamp": "2026-05-14T09:06:52.420618+00:00"
+    },
+    {
+      "elapsed_seconds": 0,
+      "script": "build_appendix_index.py",
+      "status": "passed",
+      "timestamp": "2026-05-14T09:06:52.636445+00:00"
+    },
+    {
+      "elapsed_seconds": 0,
+      "script": "query_interrogation_index.py",
+      "status": "passed",
+      "timestamp": "2026-05-14T09:06:52.790459+00:00"
+    },
+    {
+      "elapsed_seconds": 0,
+      "script": "ledger_ask.py",
+      "status": "passed",
+      "timestamp": "2026-05-14T09:06:52.952282+00:00"
+    },
+    {
+      "elapsed_seconds": 1,
+      "script": "build_query_trace_report.py",
+      "status": "passed",
+      "timestamp": "2026-05-14T09:06:53.089702+00:00"
+    },
+    {
+      "elapsed_seconds": 0,
+      "script": "check_adversarial_audit.py",
+      "status": "passed",
+      "timestamp": "2026-05-14T09:06:53.222412+00:00"
+    }
+  ],
+  "outputs": [
+    {
+      "path": "/Users/user/dev/scriptor-master/scriptor/papers/shovel-ready-trap/appendix/interrogation_index.json",
+      "sha256": "d2975221a22977be7723181f2727256fdebb8c6730f8f8d8ad5440f553c813b5",
+      "source": "generated"
+    },
+    {
+      "path": "/Users/user/dev/scriptor-master/scriptor/papers/shovel-ready-trap/appendix/rag_query_pack.json",
+      "sha256": "1fddb9d30124af300b5a5e1e22495855116abf6a9a02285e83b63e0813f289f7",
+      "source": "generated"
+    },
+    {
+      "path": "/Users/user/dev/scriptor-master/scriptor/papers/shovel-ready-trap/appendix/claim_dossiers.md",
+      "sha256": "c66174f8b0a044b0649a9437b18a7955f61cf84f7a0fce2d71758819f240bf3d",
+      "source": "generated"
+    },
+    {
+      "path": "/Users/user/dev/scriptor-master/scriptor/papers/shovel-ready-trap/appendix/source_dossiers.md",
+      "sha256": "887aa6519ab5c975b9d0a44cb060c79fd2b3c9d7db9caba15ab389e719442100",
+      "source": "generated"
+    },
+    {
+      "path": "/Users/user/dev/scriptor-master/scriptor/papers/shovel-ready-trap/appendix/reviewer_question_bank.md",
+      "sha256": "60c052881a6e70d2c7a5d71ef7b539846fe8ec4fa684bdf2de6f6069da98f52f",
+      "source": "generated"
+    },
+    {
+      "path": "/Users/user/dev/scriptor-master/scriptor/papers/shovel-ready-trap/appendix/interrogation_cost_report.md",
+      "sha256": "fb4baf1415adffe8941114b2f1a88e70436144739c0a20b929ec59cb1a35ee7a",
+      "source": "generated"
+    },
+    {
+      "path": "/Users/user/dev/scriptor-master/scriptor/papers/shovel-ready-trap/appendix/query_trace_report.md",
+      "sha256": "56d0d01252a50bab8cac9aabef57d743aec1bf20853369623c6e1f468177b748",
+      "source": "generated"
+    },
+    {
+      "path": "/Users/user/dev/scriptor-master/scriptor/papers/shovel-ready-trap/appendix/adversarial_audit_report.md",
+      "sha256": "c713203f92c90b1661dbf7a432f6e860d4b1210e714e5e5b3ad3413fb1752593",
+      "source": "generated"
+    },
+    {
+      "path": "/Users/user/dev/scriptor-master/scriptor/papers/shovel-ready-trap/workflow/logs/check_traces.jsonl",
+      "sha256": "0e2844fc2a9ba448ce032435a81c587088d37a6df8c96b90a5cbfae337d6aa2c",
+      "source": "generated"
+    },
+    {
+      "path": "/Users/user/dev/scriptor-master/scriptor/papers/shovel-ready-trap/workflow/logs/interrogation_traces.jsonl",
+      "sha256": "d037650e42b4e3694ede3fcd2ff247146017c8b7f496d967b2a59d3f3e787985",
+      "source": "generated"
+    }
+  ]
+}

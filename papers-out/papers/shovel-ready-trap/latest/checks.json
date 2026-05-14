@@ -1,0 +1,156 @@
+{
+  "paper": "shovel-ready-trap",
+  "built_at": "2026-05-14T09-06-53Z",
+  "copied": [
+    {
+      "source": "/Users/user/dev/scriptor-master/scriptor/papers/shovel-ready-trap/article/main.pdf",
+      "destination": "/Users/user/dev/scriptor-master/scriptor/papers-out/papers/shovel-ready-trap/latest/the-shovel-ready-trap.pdf",
+      "copied": true,
+      "sha256": "cb0f89cb5e253dbce7028d92ec7a54577f1e9a04568281e11cfce9d19ca7a9bf"
+    },
+    {
+      "source": "/Users/user/dev/scriptor-master/scriptor/papers/shovel-ready-trap/article/main.tex",
+      "destination": "/Users/user/dev/scriptor-master/scriptor/papers-out/papers/shovel-ready-trap/latest/the-shovel-ready-trap.tex",
+      "copied": false,
+      "unchanged": true,
+      "sha256": "35d4db0463734bcd1a054c70c3c44a4e417df3dce361ec7b7f9af55b56666664"
+    },
+    {
+      "source": "/Users/user/dev/scriptor-master/scriptor/papers/shovel-ready-trap/article/references.bib",
+      "destination": "/Users/user/dev/scriptor-master/scriptor/papers-out/papers/shovel-ready-trap/latest/the-shovel-ready-trap-references.bib",
+      "copied": false,
+      "unchanged": true,
+      "sha256": "19ab5770f7945759a8ff848bd36346e612a59ff02f270bfc49b41aa5e0dfa5e6"
+    },
+    {
+      "source": "/Users/user/dev/scriptor-master/scriptor/papers/shovel-ready-trap/evidence/claims.yml",
+      "destination": "/Users/user/dev/scriptor-master/scriptor/papers-out/papers/shovel-ready-trap/latest/ledger/claims.yml",
+      "copied": false,
+      "unchanged": true,
+      "sha256": "59ac51c5a2994794e3a9e821385fff2a0d18dea9821320ba81c11f320567b69c"
+    },
+    {
+      "source": "/Users/user/dev/scriptor-master/scriptor/papers/shovel-ready-trap/evidence/sources.yml",
+      "destination": "/Users/user/dev/scriptor-master/scriptor/papers-out/papers/shovel-ready-trap/latest/ledger/sources.yml",
+      "copied": false,
+      "unchanged": true,
+      "sha256": "261e9bc71a5ce0040451f040a77ad6be334f146778b359d40f70c173a502d7bb"
+    },
+    {
+      "source": "/Users/user/dev/scriptor-master/scriptor/papers/shovel-ready-trap/evidence/source_bias_report.md",
+      "destination": "/Users/user/dev/scriptor-master/scriptor/papers-out/papers/shovel-ready-trap/latest/ledger/source_bias_report.md",
+      "copied": false,
+      "unchanged": true,
+      "sha256": "0b9a0f046f00baa3c6140aa5c4fba687a3870706a3dbee05d7b77cdf8665326c"
+    },
+    {
+      "source": "/Users/user/dev/scriptor-master/scriptor/papers/shovel-ready-trap/evidence/transparency_log.yml",
+      "destination": "/Users/user/dev/scriptor-master/scriptor/papers-out/papers/shovel-ready-trap/latest/ledger/transparency_log.yml",
+      "copied": false,
+      "unchanged": true,
+      "sha256": "6599945b7203810913b6c88b075e55840edf4453b8169787c4016f3405318348"
+    },
+    {
+      "source": "/Users/user/dev/scriptor-master/scriptor/papers/shovel-ready-trap/workflow/logs/run_manifest.json",
+      "destination": "/Users/user/dev/scriptor-master/scriptor/papers-out/papers/shovel-ready-trap/latest/ledger/run_manifest.json",
+      "copied": true,
+      "sha256": "c761b9d520de38109f872b3e8246c3de0e702ff2391aff605dee30d86b4b8fa7"
+    },
+    {
+      "source": "/Users/user/dev/scriptor-master/scriptor/papers/shovel-ready-trap/appendix/release_summary.md",
+      "destination": "/Users/user/dev/scriptor-master/scriptor/papers-out/papers/shovel-ready-trap/latest/ledger/release_summary.md",
+      "copied": false,
+      "unchanged": true,
+      "sha256": "7b1561a6de16621375dfb4d1ec5cc5941b9ef220e98fc2246a498003d577a44c"
+    },
+    {
+      "source": "/Users/user/dev/scriptor-master/scriptor/papers/shovel-ready-trap/appendix/interrogation_index.json",
+      "destination": "/Users/user/dev/scriptor-master/scriptor/papers-out/papers/shovel-ready-trap/latest/rag/interrogation_index.json",
+      "copied": false,
+      "unchanged": true,
+      "sha256": "d2975221a22977be7723181f2727256fdebb8c6730f8f8d8ad5440f553c813b5"
+    },
+    {
+      "source": "/Users/user/dev/scriptor-master/scriptor/papers/shovel-ready-trap/appendix/rag_query_pack.json",
+      "destination": "/Users/user/dev/scriptor-master/scriptor/papers-out/papers/shovel-ready-trap/latest/rag/rag_query_pack.json",
+      "copied": true,
+      "sha256": "1fddb9d30124af300b5a5e1e22495855116abf6a9a02285e83b63e0813f289f7"
+    },
+    {
+      "source": "/Users/user/dev/scriptor-master/scriptor/papers/shovel-ready-trap/appendix/claim_dossiers.md",
+      "destination": "/Users/user/dev/scriptor-master/scriptor/papers-out/papers/shovel-ready-trap/latest/rag/claim_dossiers.md",
+      "copied": false,
+      "unchanged": true,
+      "sha256": "c66174f8b0a044b0649a9437b18a7955f61cf84f7a0fce2d71758819f240bf3d"
+    },
+    {
+      "source": "/Users/user/dev/scriptor-master/scriptor/papers/shovel-ready-trap/appendix/source_dossiers.md",
+      "destination": "/Users/user/dev/scriptor-master/scriptor/papers-out/papers/shovel-ready-trap/latest/rag/source_dossiers.md",
+      "copied": false,
+      "unchanged": true,
+      "sha256": "887aa6519ab5c975b9d0a44cb060c79fd2b3c9d7db9caba15ab389e719442100"
+    },
+    {
+      "source": "/Users/user/dev/scriptor-master/scriptor/papers/shovel-ready-trap/appendix/meta_transparency_report.md",
+      "destination": "/Users/user/dev/scriptor-master/scriptor/papers-out/papers/shovel-ready-trap/latest/rag/meta_transparency_report.md",
+      "copied": true,
+      "sha256": "428ccb1769d642392cc04ce82bb3d55a4133fd3e27b658b2a7bf749f9bc3aafd"
+    },
+    {
+      "source": "/Users/user/dev/scriptor-master/scriptor/papers/shovel-ready-trap/appendix/interrogation_cost_report.md",
+      "destination": "/Users/user/dev/scriptor-master/scriptor/papers-out/papers/shovel-ready-trap/latest/rag/interrogation_cost_report.md",
+      "copied": false,
+      "unchanged": true,
+      "sha256": "fb4baf1415adffe8941114b2f1a88e70436144739c0a20b929ec59cb1a35ee7a"
+    },
+    {
+      "source": "/Users/user/dev/scriptor-master/scriptor/papers/shovel-ready-trap/data/openalex/literature_map.md",
+      "destination": "/Users/user/dev/scriptor-master/scriptor/papers-out/papers/shovel-ready-trap/latest/corpus/literature_map.md",
+      "copied": false,
+      "unchanged": true,
+      "sha256": "8cee288a095c6f71bfcd2d31caf6dde31d3f2de3b58d51ff14bd459c00a2ab33"
+    },
+    {
+      "source": "/Users/user/dev/scriptor-master/scriptor/papers/shovel-ready-trap/data/openalex/fulltext_manifest.json",
+      "destination": "/Users/user/dev/scriptor-master/scriptor/papers-out/papers/shovel-ready-trap/latest/corpus/fulltext_manifest.json",
+      "copied": false,
+      "unchanged": true,
+      "sha256": "6af67cc250fbbae64cc58c2d99c7f21324ea9ed27df53009ae0e8a0c820e047e"
+    },
+    {
+      "source": "/Users/user/dev/scriptor-master/scriptor/papers/shovel-ready-trap/data/analysis_manifest.json",
+      "destination": "/Users/user/dev/scriptor-master/scriptor/papers-out/papers/shovel-ready-trap/latest/data/analysis_manifest.json",
+      "copied": false,
+      "unchanged": true,
+      "sha256": "f1560743e58f34ab87afb83cc80ed8586b44b1e145cfebc06a2d24367d5431f1"
+    },
+    {
+      "source": "/Users/user/dev/scriptor-master/scriptor/papers/shovel-ready-trap/data/analysis/project_stage_counts.csv",
+      "destination": "/Users/user/dev/scriptor-master/scriptor/papers-out/papers/shovel-ready-trap/latest/data/project_stage_counts.csv",
+      "copied": false,
+      "unchanged": true,
+      "sha256": "c512dded4375948fb01c3de53f20c4a687c7f13e26fcfbb995aeec638e123691"
+    },
+    {
+      "source": "/Users/user/dev/scriptor-master/scriptor/papers/shovel-ready-trap/data/analysis/luf_round2_country_summary.csv",
+      "destination": "/Users/user/dev/scriptor-master/scriptor/papers-out/papers/shovel-ready-trap/latest/data/luf_round2_country_summary.csv",
+      "copied": false,
+      "unchanged": true,
+      "sha256": "61b459a85f6add54df1b0da7cf12ee83273f158ff2fbc77d546ad7fb47b3e132"
+    },
+    {
+      "source": "/Users/user/dev/scriptor-master/scriptor/papers/shovel-ready-trap/data/project_pipeline/luf_round2_awards.csv",
+      "destination": "/Users/user/dev/scriptor-master/scriptor/papers-out/papers/shovel-ready-trap/latest/data/luf_round2_awards.csv",
+      "copied": false,
+      "unchanged": true,
+      "sha256": "30b418792db5907576fad4b4de40073db04d4a6185a873bb27ff900e92584c4e"
+    },
+    {
+      "source": "/Users/user/dev/scriptor-master/scriptor/papers/shovel-ready-trap/data/analysis/openalex_corpus_summary.json",
+      "destination": "/Users/user/dev/scriptor-master/scriptor/papers-out/papers/shovel-ready-trap/latest/data/openalex_corpus_summary.json",
+      "copied": false,
+      "unchanged": true,
+      "sha256": "9d97049cffc5415af713d70f63ad31f690c8caeb117af58f0fcbe09a8467d278"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "papers": [
+    {
+      "id": "scriptorship",
+      "title": "Death of the Author, Birth of the Scriptor",
+      "subject": "scholarly communication",
+      "profile": "General research",
+      "pdf": "death-of-the-author-birth-of-the-scriptor.pdf",
+      "method_hint": "design-gated models, reviewer simulation, claim ledgers, reproducibility checks",
+      "improvement_questions": [
+        "For scholarly communication, do the data support design-gated models, reviewer simulation, claim ledgers, reproducibility checks, or should the paper stay descriptive?",
+        "What would make the paper more credible without pretending the data identify more than they do?",
+        "What would a hostile reviewer say is the largest gap between claim and evidence?",
+        "Which next data join would most change the paper's contribution?",
+        "Can another subject reuse this workflow without changing paper-specific code?"
+      ]
+    },
+    {
+      "id": "shovel-ready-trap",
+      "title": "The Shovel-Ready Trap",
+      "subject": "regional science",
+      "profile": "Regional science",
+      "pdf": "the-shovel-ready-trap.pdf",
+      "method_hint": "spatial models, stage conversion models, event studies, synthetic controls, causal forests when covariates justify them",
+      "improvement_questions": [
+        "For regional science, do the data support spatial models, stage conversion models, event studies, synthetic controls, causal forests when covariates justify them, or should the paper stay descriptive?",
+        "Which place-level mechanism is being identified, and what spatial spillover could break the design?",
+        "What would a hostile reviewer say is the largest gap between claim and evidence?",
+        "Which next data join would most change the paper's contribution?",
+        "Can another subject reuse this workflow without changing paper-specific code?"
+      ]
+    }
+  ],
+  "questions": [
+    "What missing data would most improve identification or construct validity?",
+    "Which estimator is justified by the observed design, and which tempting estimators should be refused?",
+    "What reviewer objection would be most damaging if left unanswered?",
+    "Which source, citation, or measurement assumption is weakest?",
+    "What would make the output easier to audit, reproduce, and reuse across another subject?"
+  ]
+}

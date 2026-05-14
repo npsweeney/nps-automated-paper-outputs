@@ -1,0 +1,26 @@
+{
+  "generated_by": "scriptor-meta",
+  "source_registry": "/Users/user/dev/scriptor-master/scriptor/meta/papers.yml",
+  "papers": [
+    {
+      "id": "scriptorship",
+      "title": "Death of the Author, Birth of the Scriptor",
+      "subject": "scholarly communication",
+      "pdf": "death-of-the-author-birth-of-the-scriptor.pdf",
+      "latest": "papers-out/papers/scriptorship/latest/",
+      "page": "papers/scriptorship/"
+    },
+    {
+      "id": "shovel-ready-trap",
+      "title": "The Shovel-Ready Trap",
+      "subject": "regional science",
+      "pdf": "the-shovel-ready-trap.pdf",
+      "latest": "papers-out/papers/shovel-ready-trap/latest/",
+      "page": "papers/shovel-ready-trap/"
+    }
+  ],
+  "pdf_shelf": "pdfs/",
+  "self_improvement_report": "papers-out/corpus/self_improvement_report.md",
+  "data_cleaned": true,
+  "data_policy": "paper-level latest/data directories are removed from the external output repo after publish"
+}

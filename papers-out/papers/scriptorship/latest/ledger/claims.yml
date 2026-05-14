@@ -1,0 +1,114 @@
+[
+  {
+    "id": "C1",
+    "text": "Current research assessment relies too heavily on output-based proxies such as papers, journal placement, citation metrics, h-indexes, REF-style outputs, author status, and institutional prestige, even though these proxies were historically more aligned with visible signals of productive research.",
+    "claim_type": "institutional",
+    "warrant_level": "strong",
+    "evidence": ["S8", "S9", "S10", "S11", "S20"],
+    "workflow_links": ["transparency_log", "source_bias_report"]
+  },
+  {
+    "id": "C2",
+    "text": "AI systems are increasingly able to draft, code, review, search, analyse, and repackage research outputs, so the reliability of polished output alone declines as an assessment signal.",
+    "claim_type": "technology_trend",
+    "warrant_level": "moderate",
+    "evidence": ["S1", "S2"],
+    "workflow_links": ["transparency_log"]
+  },
+  {
+    "id": "C3",
+    "text": "Falling execution costs intensify an existing mismatch between modular workflow-based research production and a bloated quantity-output assessment system that is not built to handle generative trends.",
+    "claim_type": "mechanism",
+    "warrant_level": "moderate",
+    "evidence": ["S1", "S2", "S5"],
+    "workflow_links": ["warrant_graph"]
+  },
+  {
+    "id": "C4",
+    "text": "Authorship remains a necessary responsibility category, but a scriptor differs from a prompter by treating the research workflow itself as an output of modular AI-mediated research production.",
+    "claim_type": "conceptual",
+    "warrant_level": "moderate",
+    "evidence": ["S16", "S21", "S25", "S26", "S27"],
+    "workflow_links": ["script_framework"]
+  },
+  {
+    "id": "C5",
+    "text": "When specification search becomes cheaper, p-hacking and analytic flexibility should be made visible in scripts, logs, and decision ledgers.",
+    "claim_type": "methodological",
+    "warrant_level": "strong",
+    "evidence": ["S3", "S12", "S17", "S18", "S19", "S22"],
+    "workflow_links": ["specification_ledger", "validation_appendix"]
+  },
+  {
+    "id": "C6",
+    "text": "A whole-paper pass/fail model is too blunt because individual claims within a paper can have different warrant levels.",
+    "claim_type": "evaluation_model",
+    "warrant_level": "moderate",
+    "evidence": ["S3", "S4"],
+    "workflow_links": ["claims.yml", "warrant_graph"]
+  },
+  {
+    "id": "C7",
+    "text": "A warrant graph should inspect the life of claims rather than accumulate a bigger scoreboard for researchers.",
+    "claim_type": "mechanism_design",
+    "warrant_level": "moderate",
+    "evidence": ["S17", "S18"],
+    "workflow_links": ["warrant_graph"]
+  },
+  {
+    "id": "C8",
+    "text": "The SCRIPT protocol defines workflow evidence around Sources, Code chain, Researcher/AI roles, Interactive inspection, P-hacking visibility, and Tests.",
+    "claim_type": "proposal",
+    "warrant_level": "moderate",
+    "evidence": ["S2", "S3", "S7", "S12", "S13", "S14", "S21", "S22"],
+    "workflow_links": ["script_framework.yml"]
+  },
+  {
+    "id": "C9",
+    "text": "Publication-based incentive structures should adapt to the rise of AI-generated papers by rewarding improvements to the warrant of claims, rather than rewarding output volume or encouraging strategic ambiguity and AI masking.",
+    "claim_type": "normative",
+    "warrant_level": "moderate",
+    "evidence": ["S1", "S4", "S5", "S8", "S9", "S10", "S11", "S16", "S19"],
+    "workflow_links": ["human_audit_statement"]
+  },
+  {
+    "id": "C10",
+    "text": "A Scientific Data-style workflow profile can make scholarly infrastructure more discoverable, reusable, transparent, and creditable without pretending to be a dataset descriptor.",
+    "claim_type": "implementation",
+    "warrant_level": "moderate",
+    "evidence": ["S7", "S13", "S14", "S15"],
+    "workflow_links": ["scientific_data_style_workflow_profile"]
+  },
+  {
+    "id": "C11",
+    "text": "Git-diff voice learning can preserve authorial judgement by turning accepted human edits into proposed future style rules without automatically overwriting prose.",
+    "claim_type": "workflow_design",
+    "warrant_level": "moderate",
+    "evidence": ["S7"],
+    "workflow_links": ["git_diff_voice_learning"]
+  },
+  {
+    "id": "C12",
+    "text": "RAG-style interactive appendices may become more useful than static PDF appendices for inspecting modular claims, sources, scripts, and review changes.",
+    "claim_type": "speculative_design",
+    "warrant_level": "weak",
+    "evidence": ["S13", "S14"],
+    "workflow_links": ["rag_appendix_spec", "interactive_appendix_spec"]
+  },
+  {
+    "id": "C13",
+    "text": "The central question is not whether a research output is purely human-made, but whether it furthers human understanding and whether the workflow behind it is transparent enough to deserve trust.",
+    "claim_type": "normative",
+    "warrant_level": "moderate",
+    "evidence": ["S8", "S9", "S11", "S21"],
+    "workflow_links": ["ai_use_statement", "human_audit_statement"]
+  },
+  {
+    "id": "C14",
+    "text": "The academic paper should remain valuable as a narrative layer, but its authority should be reorganised from outcome-centred assessment plus ad hoc availability statements towards a modular constellation of workflow evidence better suited to rigorous research.",
+    "claim_type": "evaluation_model",
+    "warrant_level": "moderate",
+    "evidence": ["S13", "S14", "S15", "S16", "S28"],
+    "workflow_links": ["claims.yml", "warrant_graph", "scientific_data_style_workflow_profile"]
+  }
+]
