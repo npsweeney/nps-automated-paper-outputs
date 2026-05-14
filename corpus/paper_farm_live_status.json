@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14T11:40:18Z",
+  "generated_at": "2026-05-14T11:42:28Z",
   "active_compiled_papers": [
     {
       "id": "shovel-ready-trap",
@@ -19,30 +19,36 @@
   "active_compiled_paper_count": 2,
   "planned_job_count": 64,
   "counts": {
-    "finished": 1,
-    "seeded": 64,
-    "failed": 0,
+    "finished": 2,
+    "seeded": 62,
+    "failed": 1,
     "running": 0,
     "queued": 0,
     "unknown": 0
   },
   "capacity": {
-    "ok": false,
-    "max_workers": 1,
-    "running": 0,
     "available_slots": 0,
     "free_disk_gb": 15.25,
-    "min_free_disk_gb": 20.0,
     "free_memory_gb": 6.9,
+    "max_workers": 1,
+    "min_free_disk_gb": 20.0,
     "min_free_memory_gb": 0.0,
+    "ok": false,
     "reasons": [
       "free disk 15.3GB below minimum 20.0GB"
     ],
+    "running": 0,
     "observed_running_leases": 0,
     "observed_available_slots": 1
   },
-  "live_worker_count": 0,
-  "live_workers": [],
+  "live_worker_count": 1,
+  "live_workers": [
+    {
+      "pid": "708456",
+      "elapsed": "00:04",
+      "command": "python3 -B meta/scripts/scriptor_meta.py farm-promote --job-id procurement-delay-as-a-regional-development-bottleneck --output-destination /home/nick/dev/nps-automated-paper-outputs"
+    }
+  ],
   "warnings": [
     "Seeded jobs are intermediate research plans, not final papers. They only enter the PDF shelf after data build, manuscript drafting, reviewer automation, and final registration."
   ],
@@ -51,8 +57,8 @@
       "id": "the-project-capacity-selection-problem-in-place-based-funding-2",
       "title": "The Project-Capacity Selection Problem in Place-Based Funding",
       "subject": "regional_science",
-      "status": "seeded",
-      "stage": "seed_output",
+      "status": "failed",
+      "stage": "failed",
       "public_output": "farm/the-project-capacity-selection-problem-in-place-based-funding-2/latest",
       "public_pdf": null,
       "final_pdf": null,
@@ -61,23 +67,23 @@
       "finished_at": null,
       "failed_at": null,
       "lease_age_minutes": null,
-      "stage_detail": "Worker produced a research seed, not a final PDF. Next required stages are data build, manuscript drafting, reviewer automation, and final PDF registration."
+      "stage_detail": "Job is marked failed; inspect logs or rerun after fixing the blocker."
     },
     {
       "id": "procurement-delay-as-a-regional-development-bottleneck",
       "title": "Procurement Delay as a Regional Development Bottleneck",
       "subject": "regional_science",
-      "status": "seeded",
-      "stage": "seed_output",
+      "status": "finished",
+      "stage": "final_pdf",
       "public_output": "farm/procurement-delay-as-a-regional-development-bottleneck/latest",
       "public_pdf": null,
-      "final_pdf": null,
-      "started_at": "2026-05-14T09:34:01Z",
+      "final_pdf": "pdfs/procurement-delay-as-a-regional-development-bottleneck.pdf",
+      "started_at": "2026-05-14T11:42:24Z",
       "seeded_at": "2026-05-14T10:45:46Z",
-      "finished_at": null,
+      "finished_at": "2026-05-14T11:42:28Z",
       "failed_at": null,
       "lease_age_minutes": null,
-      "stage_detail": "Worker produced a research seed, not a final PDF. Next required stages are data build, manuscript drafting, reviewer automation, and final PDF registration."
+      "stage_detail": "Reviewer automation passed and the final manuscript PDF is registered on the output shelf."
     },
     {
       "id": "the-local-delivery-constraint-in-green-investment",

@@ -1,17 +1,17 @@
 # Paper Farm Live Status
 
-Generated: `2026-05-14T11:40:18Z`
+Generated: `2026-05-14T11:42:28Z`
 
 ## Current Truth
 
 - Published/registered papers: 2
 - Planned creation jobs: 64
-- Live worker processes detected: 0
-- Final reviewer-passed papers: 1
-- Seeded/intermediate outputs: 64
+- Live worker processes detected: 1
+- Final reviewer-passed papers: 2
+- Seeded/intermediate outputs: 62
 - Leased/running slots: 0
 - Queued jobs: 0
-- Failed jobs: 0
+- Failed jobs: 1
 
 ## Warnings
 
@@ -24,12 +24,12 @@ Generated: `2026-05-14T11:40:18Z`
 
 ## Live Workers
 
-No live paper workers detected from the local process table.
+- PID `708456`, elapsed `00:04`: `python3 -B meta/scripts/scriptor_meta.py farm-promote --job-id procurement-delay-as-a-regional-development-bottleneck --output-destination /home/nick/dev/nps-automated-paper-outputs`
 
 ## Jobs
 
-- `the-project-capacity-selection-problem-in-place-based-funding-2`: seed_output (seeded) - The Project-Capacity Selection Problem in Place-Based Funding
-- `procurement-delay-as-a-regional-development-bottleneck`: seed_output (seeded) - Procurement Delay as a Regional Development Bottleneck
+- `the-project-capacity-selection-problem-in-place-based-funding-2`: failed (failed) - The Project-Capacity Selection Problem in Place-Based Funding
+- `procurement-delay-as-a-regional-development-bottleneck`: final_pdf (finished) - Procurement Delay as a Regional Development Bottleneck
 - `the-local-delivery-constraint-in-green-investment`: seed_output (seeded) - The Local Delivery Constraint in Green Investment
 - `spatial-spillovers-from-green-investment-capacity-gaps`: seed_output (seeded) - Spatial Spillovers from Green Investment Capacity Gaps
 - `administrative-friction-and-green-investment-conversion`: seed_output (seeded) - Administrative Friction and Green Investment Conversion
