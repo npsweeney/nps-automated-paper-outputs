@@ -3,8 +3,8 @@
   "title": "Target-Trial Emulation for Local Health-Service Reconfiguration",
   "subject": "health_policy",
   "profile": "Health policy",
-  "stage": "public_output",
-  "built_at": "2026-05-14T10:37:22Z",
+  "stage": "seed_output",
+  "built_at": "2026-05-14T10:54:18Z",
   "data_types": [
     "patient pathways",
     "claims data",
@@ -23,5 +23,11 @@
     "Target-Trial Emulation for Local Health-Service Reconfiguration open access last five years",
     "health policy literature gap open access",
     "health policy patient pathways claims data EHR extracts data"
+  ],
+  "next_required_stages": [
+    "data_build",
+    "manuscript_draft",
+    "reviewer_automation",
+    "final_pdf"
   ]
 }

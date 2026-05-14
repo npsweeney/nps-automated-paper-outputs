@@ -3,8 +3,8 @@
   "title": "Replication Packages as Infrastructure for Cumulative Science",
   "subject": "science",
   "profile": "Science and innovation",
-  "stage": "public_output",
-  "built_at": "2026-05-14T10:37:20Z",
+  "stage": "seed_output",
+  "built_at": "2026-05-14T10:54:18Z",
   "data_types": [
     "bibliometrics",
     "citation graphs",
@@ -26,5 +26,11 @@
     "Replication Packages as Infrastructure for Cumulative Science open access last five years",
     "science literature gap open access",
     "science bibliometrics citation graphs grant records data"
+  ],
+  "next_required_stages": [
+    "data_build",
+    "manuscript_draft",
+    "reviewer_automation",
+    "final_pdf"
   ]
 }

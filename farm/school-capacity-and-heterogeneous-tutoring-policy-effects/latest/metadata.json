@@ -3,8 +3,8 @@
   "title": "School Capacity and Heterogeneous Tutoring Policy Effects",
   "subject": "education_policy",
   "profile": "Education policy",
-  "stage": "public_output",
-  "built_at": "2026-05-14T10:37:22Z",
+  "stage": "seed_output",
+  "built_at": "2026-05-14T10:54:18Z",
   "data_types": [
     "student panels",
     "school censuses",
@@ -22,5 +22,11 @@
     "School Capacity and Heterogeneous Tutoring Policy Effects open access last five years",
     "education policy literature gap open access",
     "education policy student panels school censuses attainment records data"
+  ],
+  "next_required_stages": [
+    "data_build",
+    "manuscript_draft",
+    "reviewer_automation",
+    "final_pdf"
   ]
 }

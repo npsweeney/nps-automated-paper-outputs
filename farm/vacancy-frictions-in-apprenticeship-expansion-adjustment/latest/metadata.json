@@ -3,8 +3,8 @@
   "title": "Vacancy Frictions in Apprenticeship Expansion Adjustment",
   "subject": "labour_economics",
   "profile": "Labour economics",
-  "stage": "public_output",
-  "built_at": "2026-05-14T10:37:20Z",
+  "stage": "seed_output",
+  "built_at": "2026-05-14T10:54:18Z",
   "data_types": [
     "worker panels",
     "employer-employee matched data",
@@ -25,5 +25,11 @@
     "Vacancy Frictions in Apprenticeship Expansion Adjustment open access last five years",
     "labour economics literature gap open access",
     "labour economics worker panels employer-employee matched data vacancy postings data"
+  ],
+  "next_required_stages": [
+    "data_build",
+    "manuscript_draft",
+    "reviewer_automation",
+    "final_pdf"
   ]
 }

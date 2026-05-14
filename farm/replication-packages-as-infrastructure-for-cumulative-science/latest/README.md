@@ -2,6 +2,6 @@
 
 Automated farm output for `replication-packages-as-infrastructure-for-cumulative-science`.
 
-- Stage: `public_output`
+- Stage: `seed_output`
 - Subject: `science`
 - Cleanup policy: delete raw/downloaded data after the PDF and audit manifests are built

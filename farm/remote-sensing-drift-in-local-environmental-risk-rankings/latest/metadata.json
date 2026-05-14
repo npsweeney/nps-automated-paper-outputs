@@ -3,8 +3,8 @@
   "title": "Remote-Sensing Drift in Local Environmental Risk Rankings",
   "subject": "geography",
   "profile": "Geography",
-  "stage": "public_output",
-  "built_at": "2026-05-14T10:32:50Z",
+  "stage": "seed_output",
+  "built_at": "2026-05-14T10:54:18Z",
   "data_types": [
     "spatial boundaries",
     "rasters",
@@ -24,5 +24,11 @@
     "Remote-Sensing Drift in Local Environmental Risk Rankings open access last five years",
     "geography literature gap open access",
     "geography spatial boundaries rasters remote-sensing products data"
+  ],
+  "next_required_stages": [
+    "data_build",
+    "manuscript_draft",
+    "reviewer_automation",
+    "final_pdf"
   ]
 }

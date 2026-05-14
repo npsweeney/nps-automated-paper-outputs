@@ -3,8 +3,8 @@
   "title": "Institutional Comparison of Automated Administration Decisions",
   "subject": "law_policy",
   "profile": "Law and policy",
-  "stage": "public_output",
-  "built_at": "2026-05-14T10:37:21Z",
+  "stage": "seed_output",
+  "built_at": "2026-05-14T10:54:18Z",
   "data_types": [
     "case law corpora",
     "statutes",
@@ -23,5 +23,11 @@
     "Institutional Comparison of Automated Administration Decisions open access last five years",
     "law policy literature gap open access",
     "law policy case law corpora statutes regulations data"
+  ],
+  "next_required_stages": [
+    "data_build",
+    "manuscript_draft",
+    "reviewer_automation",
+    "final_pdf"
   ]
 }

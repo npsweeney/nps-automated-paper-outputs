@@ -2,6 +2,6 @@
 
 Automated farm output for `worker-firm-sorting-in-training-subsidies-policy`.
 
-- Stage: `public_output`
+- Stage: `seed_output`
 - Subject: `labour_economics`
 - Cleanup policy: delete raw/downloaded data after the PDF and audit manifests are built

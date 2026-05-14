@@ -2,6 +2,6 @@
 
 Automated farm output for `skill-taxonomy-drift-and-training-subsidies-measurement`.
 
-- Stage: `public_output`
+- Stage: `seed_output`
 - Subject: `labour_economics`
 - Cleanup policy: delete raw/downloaded data after the PDF and audit manifests are built

@@ -3,8 +3,8 @@
   "title": "Timing Misclassification in Industrial Strategy Policy Evaluation",
   "subject": "economics",
   "profile": "Economics",
-  "stage": "public_output",
-  "built_at": "2026-05-14T10:32:50Z",
+  "stage": "seed_output",
+  "built_at": "2026-05-14T10:54:18Z",
   "data_types": [
     "administrative microdata",
     "firm panels",
@@ -24,5 +24,11 @@
     "Timing Misclassification in Industrial Strategy Policy Evaluation open access last five years",
     "economics literature gap open access",
     "economics administrative microdata firm panels household surveys data"
+  ],
+  "next_required_stages": [
+    "data_build",
+    "manuscript_draft",
+    "reviewer_automation",
+    "final_pdf"
   ]
 }

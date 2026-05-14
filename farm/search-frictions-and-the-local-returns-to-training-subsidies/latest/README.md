@@ -2,6 +2,6 @@
 
 Automated farm output for `search-frictions-and-the-local-returns-to-training-subsidies`.
 
-- Stage: `public_output`
+- Stage: `seed_output`
 - Subject: `labour_economics`
 - Cleanup policy: delete raw/downloaded data after the PDF and audit manifests are built

@@ -3,8 +3,8 @@
   "title": "Sequencing, Capacity, and the Geography of Green Investment",
   "subject": "regional_science",
   "profile": "Regional science",
-  "stage": "public_output",
-  "built_at": "2026-05-14T10:33:16Z",
+  "stage": "seed_output",
+  "built_at": "2026-05-14T10:54:18Z",
   "data_types": [
     "administrative place panels",
     "programme awards",
@@ -24,5 +24,11 @@
     "Sequencing, Capacity, and the Geography of Green Investment open access last five years",
     "regional science literature gap open access",
     "regional science administrative place panels programme awards procurement notices data"
+  ],
+  "next_required_stages": [
+    "data_build",
+    "manuscript_draft",
+    "reviewer_automation",
+    "final_pdf"
   ]
 }

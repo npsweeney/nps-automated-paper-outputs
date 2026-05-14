@@ -22,4 +22,4 @@ Candidate methods: clustered longitudinal models, attrition checks, heterogeneou
 
 ## Next Worker Stage
 
-The next worker should gather sources, create a data manifest, draft the empirical design, and promote this seed into a registered paper folder when it has enough evidence for a full PDF.
+The next worker should gather sources, create a data manifest, draft the empirical design, run reviewer automation, and promote this seed into the final PDF shelf only after a manuscript-grade result passes review.
