@@ -1,18 +1,19 @@
 # Paper Farm Plan
 
-Active compiled papers: 1
+Active compiled papers: 2
 Planned creation jobs: 64
 Suggested parallel workers: 2
 
 ## Active Papers
 
 - `shovel-ready-trap`: The Shovel-Ready Trap (regional science)
+- `the-project-capacity-selection-problem-in-place-based-funding`: The Project-Capacity Selection Problem in Place-Based Funding (regional_science)
 
 ## Planned Jobs
 
 ### The Project-Capacity Selection Problem in Place-Based Funding
 
-- ID: `the-project-capacity-selection-problem-in-place-based-funding`
+- ID: `the-project-capacity-selection-problem-in-place-based-funding-2`
 - Subject: `regional_science`
 - Profile: Regional science
 - Data: administrative place panels, programme awards, procurement notices, contracts, spatial boundaries, local need and capacity indicators
