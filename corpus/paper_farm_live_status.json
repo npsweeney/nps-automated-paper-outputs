@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14T10:54:20Z",
+  "generated_at": "2026-05-14T11:12:16Z",
   "active_compiled_papers": [
     {
       "id": "shovel-ready-trap",
@@ -12,8 +12,8 @@
   "active_compiled_paper_count": 1,
   "planned_job_count": 64,
   "counts": {
-    "finished": 0,
-    "seeded": 64,
+    "finished": 1,
+    "seeded": 63,
     "failed": 0,
     "running": 0,
     "queued": 0,
@@ -44,17 +44,17 @@
       "id": "the-project-capacity-selection-problem-in-place-based-funding",
       "title": "The Project-Capacity Selection Problem in Place-Based Funding",
       "subject": "regional_science",
-      "status": "seeded",
-      "stage": "seed_output",
+      "status": "finished",
+      "stage": "final_pdf",
       "public_output": "farm/the-project-capacity-selection-problem-in-place-based-funding/latest",
       "public_pdf": null,
-      "final_pdf": null,
-      "started_at": "2026-05-14T09:34:01Z",
+      "final_pdf": "pdfs/the-project-capacity-selection-problem-in-place-based-funding.pdf",
+      "started_at": "2026-05-14T11:11:21Z",
       "seeded_at": "2026-05-14T10:45:46Z",
-      "finished_at": null,
+      "finished_at": "2026-05-14T11:11:34Z",
       "failed_at": null,
       "lease_age_minutes": null,
-      "stage_detail": "Worker produced a research seed, not a final PDF. Next required stages are data build, manuscript drafting, reviewer automation, and final PDF registration."
+      "stage_detail": "Reviewer automation passed and the final manuscript PDF is registered on the output shelf."
     },
     {
       "id": "procurement-delay-as-a-regional-development-bottleneck",

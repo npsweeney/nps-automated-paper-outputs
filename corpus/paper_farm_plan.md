@@ -2,7 +2,7 @@
 
 Active compiled papers: 1
 Planned creation jobs: 64
-Suggested parallel workers: 10
+Suggested parallel workers: 2
 
 ## Active Papers
 

@@ -1,14 +1,14 @@
 # Paper Farm Live Status
 
-Generated: `2026-05-14T10:54:20Z`
+Generated: `2026-05-14T11:12:16Z`
 
 ## Current Truth
 
 - Published/registered papers: 1
 - Planned creation jobs: 64
 - Live worker processes detected: 0
-- Final reviewer-passed papers: 0
-- Seeded/intermediate outputs: 64
+- Final reviewer-passed papers: 1
+- Seeded/intermediate outputs: 63
 - Leased/running slots: 0
 - Queued jobs: 0
 - Failed jobs: 0
@@ -27,7 +27,7 @@ No live paper workers detected from the local process table.
 
 ## Jobs
 
-- `the-project-capacity-selection-problem-in-place-based-funding`: seed_output (seeded) - The Project-Capacity Selection Problem in Place-Based Funding
+- `the-project-capacity-selection-problem-in-place-based-funding`: final_pdf (finished) - The Project-Capacity Selection Problem in Place-Based Funding
 - `procurement-delay-as-a-regional-development-bottleneck`: seed_output (seeded) - Procurement Delay as a Regional Development Bottleneck
 - `the-local-delivery-constraint-in-green-investment`: seed_output (seeded) - The Local Delivery Constraint in Green Investment
 - `spatial-spillovers-from-green-investment-capacity-gaps`: seed_output (seeded) - Spatial Spillovers from Green Investment Capacity Gaps
