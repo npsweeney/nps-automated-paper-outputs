@@ -1,0 +1,29 @@
+{
+  "id": "skill-taxonomy-drift-and-training-subsidies-measurement",
+  "title": "Skill Taxonomy Drift and Training Subsidies Measurement",
+  "subject": "labour_economics",
+  "profile": "Labour economics",
+  "stage": "public_output",
+  "built_at": "2026-05-14T10:37:20Z",
+  "data_types": [
+    "worker panels",
+    "employer-employee matched data",
+    "vacancy postings",
+    "wage records",
+    "commuting zones",
+    "occupation and skill taxonomies"
+  ],
+  "method_families": [
+    "shift-share designs",
+    "worker-firm fixed effects",
+    "event studies",
+    "hazard models",
+    "search-and-matching diagnostics",
+    "heterogeneous treatment effects"
+  ],
+  "search_queries": [
+    "Skill Taxonomy Drift and Training Subsidies Measurement open access last five years",
+    "labour economics literature gap open access",
+    "labour economics worker panels employer-employee matched data vacancy postings data"
+  ]
+}

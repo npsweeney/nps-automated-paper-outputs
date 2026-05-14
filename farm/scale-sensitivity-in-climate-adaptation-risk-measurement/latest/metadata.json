@@ -1,0 +1,28 @@
+{
+  "id": "scale-sensitivity-in-climate-adaptation-risk-measurement",
+  "title": "Scale Sensitivity in Climate Adaptation Risk Measurement",
+  "subject": "geography",
+  "profile": "Geography",
+  "stage": "public_output",
+  "built_at": "2026-05-14T10:32:50Z",
+  "data_types": [
+    "spatial boundaries",
+    "rasters",
+    "remote-sensing products",
+    "mobility traces",
+    "land-use data",
+    "administrative geographies"
+  ],
+  "method_families": [
+    "spatial econometrics",
+    "geostatistical models",
+    "spatial interaction models",
+    "network accessibility",
+    "scale sensitivity checks"
+  ],
+  "search_queries": [
+    "Scale Sensitivity in Climate Adaptation Risk Measurement open access last five years",
+    "geography literature gap open access",
+    "geography spatial boundaries rasters remote-sensing products data"
+  ]
+}

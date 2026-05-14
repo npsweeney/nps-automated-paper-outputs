@@ -1,0 +1,28 @@
+{
+  "id": "network-access-and-the-local-geography-of-climate-adaptation",
+  "title": "Network Access and the Local Geography of Climate Adaptation",
+  "subject": "geography",
+  "profile": "Geography",
+  "stage": "public_output",
+  "built_at": "2026-05-14T10:33:16Z",
+  "data_types": [
+    "spatial boundaries",
+    "rasters",
+    "remote-sensing products",
+    "mobility traces",
+    "land-use data",
+    "administrative geographies"
+  ],
+  "method_families": [
+    "spatial econometrics",
+    "geostatistical models",
+    "spatial interaction models",
+    "network accessibility",
+    "scale sensitivity checks"
+  ],
+  "search_queries": [
+    "Network Access and the Local Geography of Climate Adaptation open access last five years",
+    "geography literature gap open access",
+    "geography spatial boundaries rasters remote-sensing products data"
+  ]
+}

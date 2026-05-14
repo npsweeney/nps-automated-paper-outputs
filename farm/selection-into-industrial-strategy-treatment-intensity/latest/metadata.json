@@ -1,0 +1,28 @@
+{
+  "id": "selection-into-industrial-strategy-treatment-intensity",
+  "title": "Selection into Industrial Strategy Treatment Intensity",
+  "subject": "economics",
+  "profile": "Economics",
+  "stage": "public_output",
+  "built_at": "2026-05-14T10:37:20Z",
+  "data_types": [
+    "administrative microdata",
+    "firm panels",
+    "household surveys",
+    "price and wage series",
+    "policy timing panels"
+  ],
+  "method_families": [
+    "event studies",
+    "difference-in-differences",
+    "instrumental variables",
+    "synthetic controls",
+    "double machine learning",
+    "partial identification"
+  ],
+  "search_queries": [
+    "Selection into Industrial Strategy Treatment Intensity open access last five years",
+    "economics literature gap open access",
+    "economics administrative microdata firm panels household surveys data"
+  ]
+}

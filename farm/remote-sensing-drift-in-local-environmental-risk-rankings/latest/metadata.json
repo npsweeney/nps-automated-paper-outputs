@@ -1,0 +1,28 @@
+{
+  "id": "remote-sensing-drift-in-local-environmental-risk-rankings",
+  "title": "Remote-Sensing Drift in Local Environmental Risk Rankings",
+  "subject": "geography",
+  "profile": "Geography",
+  "stage": "public_output",
+  "built_at": "2026-05-14T10:32:50Z",
+  "data_types": [
+    "spatial boundaries",
+    "rasters",
+    "remote-sensing products",
+    "mobility traces",
+    "land-use data",
+    "administrative geographies"
+  ],
+  "method_families": [
+    "spatial econometrics",
+    "geostatistical models",
+    "spatial interaction models",
+    "network accessibility",
+    "scale sensitivity checks"
+  ],
+  "search_queries": [
+    "Remote-Sensing Drift in Local Environmental Risk Rankings open access last five years",
+    "geography literature gap open access",
+    "geography spatial boundaries rasters remote-sensing products data"
+  ]
+}

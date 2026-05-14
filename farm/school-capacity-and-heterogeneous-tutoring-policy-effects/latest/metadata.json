@@ -1,0 +1,26 @@
+{
+  "id": "school-capacity-and-heterogeneous-tutoring-policy-effects",
+  "title": "School Capacity and Heterogeneous Tutoring Policy Effects",
+  "subject": "education_policy",
+  "profile": "Education policy",
+  "stage": "public_output",
+  "built_at": "2026-05-14T10:37:22Z",
+  "data_types": [
+    "student panels",
+    "school censuses",
+    "attainment records",
+    "attendance data",
+    "teacher and cohort data"
+  ],
+  "method_families": [
+    "clustered longitudinal models",
+    "attrition checks",
+    "heterogeneous treatment effects",
+    "cohort event studies"
+  ],
+  "search_queries": [
+    "School Capacity and Heterogeneous Tutoring Policy Effects open access last five years",
+    "education policy literature gap open access",
+    "education policy student panels school censuses attainment records data"
+  ]
+}

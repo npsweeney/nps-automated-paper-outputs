@@ -1,0 +1,27 @@
+{
+  "id": "regulatory-delay-as-an-unequal-access-mechanism",
+  "title": "Regulatory Delay as an Unequal Access Mechanism",
+  "subject": "law_policy",
+  "profile": "Law and policy",
+  "stage": "public_output",
+  "built_at": "2026-05-14T10:37:20Z",
+  "data_types": [
+    "case law corpora",
+    "statutes",
+    "regulations",
+    "administrative decisions",
+    "docket data",
+    "legal annotations"
+  ],
+  "method_families": [
+    "doctrinal mapping",
+    "institutional comparison",
+    "process tracing",
+    "bounded causal inference"
+  ],
+  "search_queries": [
+    "Regulatory Delay as an Unequal Access Mechanism open access last five years",
+    "law policy literature gap open access",
+    "law policy case law corpora statutes regulations data"
+  ]
+}

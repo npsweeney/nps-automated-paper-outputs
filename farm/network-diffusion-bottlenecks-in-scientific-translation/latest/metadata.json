@@ -1,0 +1,30 @@
+{
+  "id": "network-diffusion-bottlenecks-in-scientific-translation",
+  "title": "Network Diffusion Bottlenecks in Scientific Translation",
+  "subject": "science",
+  "profile": "Science and innovation",
+  "stage": "public_output",
+  "built_at": "2026-05-14T10:37:20Z",
+  "data_types": [
+    "bibliometrics",
+    "citation graphs",
+    "grant records",
+    "patents",
+    "clinical trials",
+    "lab or instrument datasets",
+    "replication packages"
+  ],
+  "method_families": [
+    "knowledge graph analysis",
+    "field-normalised citation models",
+    "grant discontinuities",
+    "topic models",
+    "network diffusion",
+    "replication audits"
+  ],
+  "search_queries": [
+    "Network Diffusion Bottlenecks in Scientific Translation open access last five years",
+    "science literature gap open access",
+    "science bibliometrics citation graphs grant records data"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "doctrinal-fragmentation-in-automated-administrative-decisions",
+  "title": "Doctrinal Fragmentation in Automated Administrative Decisions",
+  "subject": "law_policy",
+  "profile": "Law and policy",
+  "stage": "public_output",
+  "built_at": "2026-05-14T10:37:20Z",
+  "data_types": [
+    "case law corpora",
+    "statutes",
+    "regulations",
+    "administrative decisions",
+    "docket data",
+    "legal annotations"
+  ],
+  "method_families": [
+    "doctrinal mapping",
+    "institutional comparison",
+    "process tracing",
+    "bounded causal inference"
+  ],
+  "search_queries": [
+    "Doctrinal Fragmentation in Automated Administrative Decisions open access last five years",
+    "law policy literature gap open access",
+    "law policy case law corpora statutes regulations data"
+  ]
+}

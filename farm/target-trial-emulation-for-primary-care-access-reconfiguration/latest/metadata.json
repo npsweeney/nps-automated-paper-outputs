@@ -1,0 +1,27 @@
+{
+  "id": "target-trial-emulation-for-primary-care-access-reconfiguration",
+  "title": "Target-Trial Emulation for Primary Care Access Reconfiguration",
+  "subject": "health_policy",
+  "profile": "Health policy",
+  "stage": "public_output",
+  "built_at": "2026-05-14T10:37:22Z",
+  "data_types": [
+    "patient pathways",
+    "claims data",
+    "EHR extracts",
+    "hospital episodes",
+    "trial registries",
+    "mortality and morbidity data"
+  ],
+  "method_families": [
+    "target-trial emulation",
+    "survival models",
+    "hierarchical shrinkage",
+    "missing-data sensitivity"
+  ],
+  "search_queries": [
+    "Target-Trial Emulation for Primary Care Access Reconfiguration open access last five years",
+    "health policy literature gap open access",
+    "health policy patient pathways claims data EHR extracts data"
+  ]
+}
